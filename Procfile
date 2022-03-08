@@ -1,1 +1,1 @@
-worker: python "assistent(cripto)"
+worker: python "assistent(cripto).py"
